@@ -1,3 +1,5 @@
+// Nama : Dewa Kadek Arie Yudha
+
 function threeStepsAB(text) {
     console.log('text :', text)
     for (let i = 0; i < text.length - 4; i++) {

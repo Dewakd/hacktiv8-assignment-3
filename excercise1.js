@@ -1,3 +1,5 @@
+// Nama : Dewa Kadek Arie Yudha
+
 function isArithmeticProgression(arr) {
     const selisih = arr[1] - arr[0]; //selisih = 1
     const n = arr.length;

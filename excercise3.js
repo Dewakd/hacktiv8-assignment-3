@@ -1,3 +1,5 @@
+// Nama : Dewa Kadek Arie Yudha
+
 function sumArray(arr,int){
     let result = []
     console.log(`Sekarang kita akan mencari angka ${int}`)
